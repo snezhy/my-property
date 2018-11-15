@@ -20,6 +20,6 @@ You should see a list of properties that the customer can afford.
 
 1. Add upload form for uploading the CSVs.
 2. Add validation for uploaded files.
-3. Modify CSV.php to have one function that reads CSV files undependantly from the file structure.
+3. Modify CSV.php to have one function that reads CSV files independantly from the file structure.
 4. Create a new CSV, containing the properties that the customer can afford.
 5. Adding unit tests.
