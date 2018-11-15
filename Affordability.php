@@ -14,6 +14,7 @@ class Affordability {
 
 
     public function __construct($recurringIncome, $recurringExpenses) {
+
         $this->recurringIncome = $recurringIncome;
         $this->recurringExpenses = $recurringExpenses;
     }
